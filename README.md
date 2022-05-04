@@ -13,7 +13,7 @@ Tecnologías que manejo: HTML, CSS, Javascrip, React, Redux, Express, SQL, Seque
 
 ## Hello! 
 #### 💬 About me...
-> Mi name is Juan Salgado.
+> My name is Juan Salgado.
 I started to study programming at the begining of 2018,
 Due to my participation in programming hotbeds at the Universidad Piloto de Colombia.💻
 Since then, I have been studying and learning new technologies and programming tools and
