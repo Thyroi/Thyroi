@@ -10,17 +10,13 @@ Currently expanding my knowledge in **networking, cybersecurity, and system inte
 
 ## 🚀 Tech Stack
 
-### Backend
+
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & DevOps
@@ -65,9 +61,10 @@ Currently expanding my knowledge in **networking, cybersecurity, and system inte
 
 ---
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Thyroi&show_icons=true&theme=tokyonight)
+![GitHub Stats]## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Thyroi&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-chi-puce-46.vercel.app/api?username=Thyroi)
+
 ---
 
 ## 📫 Connect with me
