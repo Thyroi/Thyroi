@@ -67,9 +67,9 @@ Currently expanding my knowledge in **networking, cybersecurity, and system inte
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thyroi&show_icons=true&theme=dark)
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thyroi&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thyroi&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thyroi&layout=compact&theme=tokyonight)
 
 ---
 
